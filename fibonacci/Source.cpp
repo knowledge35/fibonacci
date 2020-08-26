@@ -24,5 +24,5 @@ int main() {
 		b = c;
 		cout << c << endl;
 	}
-
+	// i hope you one day you will be greatest game developer
 }
